@@ -1,0 +1,13 @@
+{
+    "best_macro_f1": 0.7549995254716865,
+    "best_params": {
+        "n_estimators": 357,
+        "max_depth": 27,
+        "min_samples_split": 14,
+        "min_samples_leaf": 4,
+        "max_features": "log2"
+    },
+    "n_trials": 30,
+    "time_seconds": 854.8114368915558,
+    "datetime_finished": "2026-03-26 17:18:22"
+}
