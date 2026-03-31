@@ -1,0 +1,14 @@
+{
+    "best_macro_f1": 0.7587644132340446,
+    "best_params": {
+        "learning_rate": 0.0020085284748997245,
+        "units_layer1": 66,
+        "dropout_rate": 0.47448387674205134,
+        "batch_size": 64,
+        "num_layers": 2,
+        "units_layer2": 254
+    },
+    "n_trials": 21,
+    "time_seconds": 3839.9302678108215,
+    "datetime_finished": "2026-03-27 19:59:08"
+}
